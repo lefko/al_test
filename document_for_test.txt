@@ -1,3 +1,4 @@
+1
  1
 2
 3 Test
@@ -11,7 +12,7 @@
 11 Adding something to line 11
 12
 13
-14 Continuing a conflict
+14 Staring a conflict
 15
 16
 17
